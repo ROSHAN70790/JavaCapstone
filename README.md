@@ -113,12 +113,7 @@ CCRM-Java-Project
 | Assertions      | `assert credits > 0 : "Credits must be positive";|
 ```
 
-# Screenshots
 
-![Java Version](screenshots/java-version.png)
-![VS Code Project](screenshots/project-structure.png)
-![CLI Running](screenshots/cli-run.png)
-![Backup Folder](screenshots/backup.png)
         
 # Eclipse Setup 
 1. File → New → Java Project  
