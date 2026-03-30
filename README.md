@@ -7,8 +7,8 @@ This Campus Course & Records Manager (CCRM) is a simple Java console application
 # Project Structure
 
 ```
-CCRM-Java-Project
- ├─ edu/
+javacapstone
+ ├─ edu
  │   └─ ccrm/
  │       ├─ cli/
  │       │   └─ MainMenu.java
