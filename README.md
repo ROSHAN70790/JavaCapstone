@@ -41,7 +41,7 @@ javacapstone
 - VS Code (with Java Extension Pack) / Eclipse IDE
 
 # Steps to Run
-1. Open the folder `CCRM-Java-Project` in VS Code.  
+1. Open the folder `javacapstone` in VS Code.  
 2. Navigate to the file: 
         edu.ccrm/cli/MainMenu.java
 3. Run the program. The menu-driven CLI will appear in the terminal.
